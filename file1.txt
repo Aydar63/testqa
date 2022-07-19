@@ -1,6 +1,7 @@
 privet aydar kak dela
 norm
 789.
+commit test
 Добавление строки
 bla
 haha
