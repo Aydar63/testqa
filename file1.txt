@@ -6,3 +6,4 @@ commit test
 Добавление строки
 bla
 haha
+new branch line
